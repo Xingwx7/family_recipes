@@ -2,7 +2,8 @@
 
 Set of recipes as given by my mom.
 
-- pizzas(T0D0)
+- pizzas
+  -[base](./pizzas/base.md)
 - pasta(T0D0)
 - rice(T0D0)
 - flour(T0D0)
